@@ -11,6 +11,7 @@
 		4A01D6682619F070005D1882 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A01D6672619F070005D1882 /* ContentView.swift */; };
 		4A01D66A2619F073005D1882 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A01D6692619F073005D1882 /* Assets.xcassets */; };
 		4A01D66D2619F073005D1882 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A01D66C2619F073005D1882 /* Preview Assets.xcassets */; };
+		4A01D6762619F085005D1882 /* AllFontFamily.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A01D6752619F085005D1882 /* AllFontFamily.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		4A01D6692619F073005D1882 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A01D66C2619F073005D1882 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4A01D66E2619F073005D1882 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A01D6752619F085005D1882 /* AllFontFamily.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllFontFamily.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				4A01D6652619F070005D1882 /* iOSFontFamilyApp.swift */,
 				4A01D6672619F070005D1882 /* ContentView.swift */,
+				4A01D6752619F085005D1882 /* AllFontFamily.swift */,
 				4A01D6692619F073005D1882 /* Assets.xcassets */,
 				4A01D66E2619F073005D1882 /* Info.plist */,
 				4A01D66B2619F073005D1882 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				4A01D6682619F070005D1882 /* ContentView.swift in Sources */,
 				4A01D6662619F070005D1882 /* iOSFontFamilyApp.swift in Sources */,
+				4A01D6762619F085005D1882 /* AllFontFamily.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
